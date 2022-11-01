@@ -943,7 +943,8 @@ def Kiwi():
             "papier",
             "justificatif",
             "tout",
-            "phrase"
+            "phrase",
+            "ableton"
             ]
 
         wikith = []
